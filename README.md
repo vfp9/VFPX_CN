@@ -7,6 +7,7 @@ qq:411618689
 # 项目说明
 Production                          release
 AddLabel                  Add custom label sizes to the New Label dialog in the Label Designer (XSource)
+
 Alternate SCCText 	New and improved version of source code control to text program
 Beautify 	Specify capitalization and indentation styles for code (XSource)
 Builders 	Tools that aid in setting properties of controls on a form (XSource)
