@@ -82,7 +82,7 @@ MY 类库和 NET4COM 很相似。MY 是一个 Visual FoxPro 工具，它像 NET4
 MY 文件夹包含一个帮助文件：MY.CHM ，它包括 MY 的描述、安装和使用，以及包含针对不同的 API 的 API 引用。
 
 DDEX for VFP
-============
+=============
 它是 Visual Studio 2005 扩展(数据设计器扩展)，以便使用 Visual FoxPro 数据文件。安装 VFP DDEX ，同时也安装了 ADO .NET 数据驱动，它封装了 
 VFPOLEDB 。
 
