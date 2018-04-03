@@ -95,9 +95,13 @@ DDEX 允许 Visual Studio 使用 Visual FoxPro 数据源更好的工作。它将
 
 注意：RegDDEX 必须以管理员身份运行。以管理员身份执行下面的命令。
 要注册 DDEXProvider...
+
     更改目录到 Sedna 下的 'DDEXProvider'
     运行 RegDDEX
+
 要撤消 DDEXProvider 注册...
+
     更改目录到 Sedna 下的 'DDEXProvider'
     运行 RegDDEX /u
+
 一旦注册成功，在 Visual Studio 中可以在连接对话框中选择 Visual FoxPro 这样一个新的数据源类型。
