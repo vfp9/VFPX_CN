@@ -71,7 +71,6 @@ NET4COM 库是 .NET Framework 2.0 的子集的封装，它是一个 COM 类集�
 *VFPSamples  -- 包含在 VFP 中使用 NET4COM 的示例
 *VB6Samples  -- 包含在 VB6 中使用 NET4COM 的示例
 *FFC         -- NET4COM 的 FFC 封状
-
 示例程序展示了在 Visual FoxPro 和 Visual Basic 6.0 中 NET4COM 的使用。
 
 MY for VFP
