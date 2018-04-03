@@ -1,4 +1,4 @@
-Visual FoxPro "Sedna"
+#Visual FoxPro "Sedna"
 =====================
 Sedna 是一个用于 Visual FoxPRO 9.0 SP2 的类库、示例和插件的集合。
 
@@ -7,7 +7,7 @@ Sedna 是一个用于 Visual FoxPRO 9.0 SP2 的类库、示例和插件的集合
 这个安装包包括六个组成部分：VistaDialogs4COM、 Upsizing Wizard、Data Explorer、 NET4COM 和 MY for VFP 以及 DDEX for VFP 。下面的内容描述
 了这些组件并提供如何使用它们的方法。
 
-VistaDialogs4COM
+##VistaDialogs4COM
 ================
 VistaDialogs4COM 是一个可视的 COM 类集合，它封装了 Microsoft VistaBridgeLibrary 提供的函数。VistaDialogs4COM 为 Visual FoxPro 开发者提供
 了访问 Windows Vista 任务对话框(TaskDialog) 和公共对话框的能力。
@@ -24,7 +24,7 @@ VistaDialogs4COM 的一些附加注意事项：
 VistaLibrary4COM 需要 Windows Vista 。API 不能用于早期的 Windows 版本。VFP 示例文件夹下包含一些图片，来展示不同的对话框以及它们与早期版本对应
 的对话框的区别。
 
-SQL Server Upsizing Wizard
+##SQL Server Upsizing Wizard
 ==========================
 这是 Visual FoxPro 9.0 SP2 升迁向导的更新。Sedna 升迁向导将安装在 "Microsoft Visual FoxPro 9\Sedna\UpsizingWizard" 目录。从这个位置，你可
 以运行 "UpsiziingWizard.app" 来执行新的向导。
@@ -43,7 +43,7 @@ SQL Server Upsizing Wizard
 *  支持带空格的表名。
 *  如果目标数据库已被创建，UpsizingWizard.APP 可以使用源文件名、路径、目标DB和一个布尔值作为参数来启动。
 
-Database Explorer
+##Database Explorer
 =================
 这是 Visual FoxPro 9.0 SP2 的数据浏览器的更新。它将被安装到 "Microsoft Visual FoxPro 9\Sedna\DataExplorer" 目录下。可以从这个位置运行新的 
 'DataExplorer.app' 。
@@ -59,7 +59,7 @@ Database Explorer
 *  在选项对话框增加 Showplan 参数设置，应用于 showplan 特性。
 *  Context menu item to launch the new UpsizingWizard.
 
-NET4COM
+##NET4COM
 =======
 NET4COM 库是 .NET Framework 2.0 的子集的封装，它是一个 COM 类集合。.NET Framework 是命名空间和 API 的集合，它提供了一个全面的功能设置，使开发
 者可以用其建立运行在 .NET 平台的应用程序。VFP 并没有一个 API 库，有些特性在 VFP 中并不存在或者很难在 Framework 中使用。NET4COM 提供了一个简单的
@@ -73,7 +73,7 @@ NET4COM 库是 .NET Framework 2.0 的子集的封装，它是一个 COM 类集�
 *FFC         -- NET4COM 的 FFC 封状
 示例程序展示了在 Visual FoxPro 和 Visual Basic 6.0 中 NET4COM 的使用。
 
-MY for VFP
+##MY for VFP
 ==========
 MY 类库和 NET4COM 很相似。MY 是一个 Visual FoxPro 工具，它像 NET4COM 一样在更高的层次提供了常用的功能，以便很容易的来显示和浏览。
 安装程序将安装 MY 类库到所选择的安装路径下的 "MY" 文件夹。要在 Visual FoxPro 中安装 MY ：
@@ -82,7 +82,7 @@ MY 类库和 NET4COM 很相似。MY 是一个 Visual FoxPro 工具，它像 NET4
 
 MY 文件夹包含一个帮助文件：MY.CHM ，它包括 MY 的描述、安装和使用，以及包含针对不同的 API 的 API 引用。
 
-DDEX for VFP
+##DDEX for VFP
 =============
 它是 Visual Studio 2005 扩展(数据设计器扩展)，以便使用 Visual FoxPro 数据文件。安装 VFP DDEX ，同时也安装了 ADO .NET 数据驱动，它封装了 
 VFPOLEDB 。
