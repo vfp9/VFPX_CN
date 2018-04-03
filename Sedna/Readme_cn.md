@@ -66,6 +66,7 @@ NET4COM 库是 .NET Framework 2.0 的子集的封装，它是一个 COM 类集�
 .NET Framework 子集，收集在 VFP 中不存在的，而又是常用的 API 来供 VFP 使用。
 
 安装程序将安装 NET4COM 和示例文件到磁盘。安装程序也会注册 NET4COM.DLL 这个 COM 组件。NET4COM 文件夹包含以下内容：
+
 NET4COM.dll -- 针对 COM 组件的 DLL ，它是 .NET Framework 2.0 子集的封装。
 Source      -- 包含 NET4COM 的项目文件和源代码
 VFPSamples  -- 包含在 VFP 中使用 NET4COM 的示例
