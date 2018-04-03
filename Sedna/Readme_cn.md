@@ -66,20 +66,21 @@ NET4COM 库是 .NET Framework 2.0 的子集的封装，它是一个 COM 类集�
 .NET Framework 子集，收集在 VFP 中不存在的，而又是常用的 API 来供 VFP 使用。
 
 安装程序将安装 NET4COM 和示例文件到磁盘。安装程序也会注册 NET4COM.DLL 这个 COM 组件。NET4COM 文件夹包含以下内容：
+*NET4COM.dll -- 针对 COM 组件的 DLL ，它是 .NET Framework 2.0 子集的封装。
+*Source      -- 包含 NET4COM 的项目文件和源代码
+*VFPSamples  -- 包含在 VFP 中使用 NET4COM 的示例
+*VB6Samples  -- 包含在 VB6 中使用 NET4COM 的示例
+*FFC         -- NET4COM 的 FFC 封状
 
-NET4COM.dll -- 针对 COM 组件的 DLL ，它是 .NET Framework 2.0 子集的封装。
-Source      -- 包含 NET4COM 的项目文件和源代码
-VFPSamples  -- 包含在 VFP 中使用 NET4COM 的示例
-VB6Samples  -- 包含在 VB6 中使用 NET4COM 的示例
-FFC         -- NET4COM 的 FFC 封状
 示例程序展示了在 Visual FoxPro 和 Visual Basic 6.0 中 NET4COM 的使用。
 
 MY for VFP
 ==========
 MY 类库和 NET4COM 很相似。MY 是一个 Visual FoxPro 工具，它像 NET4COM 一样在更高的层次提供了常用的功能，以便很容易的来显示和浏览。
 安装程序将安装 MY 类库到所选择的安装路径下的 "MY" 文件夹。要在 Visual FoxPro 中安装 MY ：
-   *  浏览 MY 文件夹
-   *  运行 MY.APP
+*  浏览 MY 文件夹
+*  运行 MY.APP
+
 MY 文件夹包含一个帮助文件：MY.CHM ，它包括 MY 的描述、安装和使用，以及包含针对不同的 API 的 API 引用。
 
 DDEX for VFP
