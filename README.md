@@ -5,5 +5,7 @@ VFPX项目的有关中文版资料。各项目更详细的中文资料详见下�
 
 **[VFP9 Reporting Apps](https://github.com/vfp9/ReportingApps)**
 
+**[DesktopAlerts](https://github.com/vfp9/DesktopAlerts)**
+
 联系人：xinjie
 qq:411618689
