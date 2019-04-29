@@ -7,5 +7,8 @@ VFPX项目的有关中文版资料。各项目更详细的中文资料详见下�
 
 **[DesktopAlerts](https://github.com/vfp9/DesktopAlerts)**
 
+**[FoxUnit](https://github.com/vfp9/FoxUnit)**
+
+
 联系人：xinjie
 qq:411618689
