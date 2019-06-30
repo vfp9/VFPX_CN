@@ -11,6 +11,8 @@ VFPX项目的有关中文版资料。各项目更详细的中文资料详见下�
 
 **[AlternateSCCText 多语言版](https://github.com/vfp9/AlternateSCCText)**
 
+**[Cursor and Connector Properties Viewer 简体中文版](https://github.com/vfp9/CCPropsViewer)**
+
 
 联系人：xinjie
 
