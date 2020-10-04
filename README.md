@@ -19,6 +19,8 @@ VFPX项目的有关中文版资料。各项目更详细的中文资料详见下�
 
 **[OOReports](https://github.com/vfp9/OOPReports)**
 
+**[CodeAnalyst 简体中文版](https://github.com/vfp9/CodeAnalyst)**
+
 
 联系人：xinjie
 
