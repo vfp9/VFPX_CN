@@ -3,6 +3,8 @@ VFPX项目的有关中文版资料。各项目更详细的中文资料详见下�
 
 **[Thor 多语言源码和简体中文版文档](https://github.com/vfp9/Thor_CN)**
 
+**[ThorRepository 简体中文版文档](https://github.com/vfp9/ThorRepository_CN)**
+
 **[VFP9 Reporting Apps 多语言版](https://github.com/vfp9/ReportingApps)**
 
 **[DesktopAlerts 多语言版](https://github.com/vfp9/DesktopAlerts)**
